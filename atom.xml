@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-05-06T09:25:40.000Z</updated>
+  <updated>2016-05-06T11:07:15.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,9 +20,9 @@
     <link href="http://yoursite.com/2016/05/06/cmd-markdown/"/>
     <id>http://yoursite.com/2016/05/06/cmd-markdown/</id>
     <published>2016-05-06T09:17:05.000Z</published>
-    <updated>2016-05-06T09:25:40.000Z</updated>
+    <updated>2016-05-06T11:07:15.000Z</updated>
     
-    <content type="html">&lt;h1 id=&quot;欢迎使用-Cmd-Markdown-编辑阅读器&quot;&gt;&lt;a href=&quot;#欢迎使用-Cmd-Markdown-编辑阅读器&quot; class=&quot;headerlink&quot; title=&quot;欢迎使用 Cmd Markdown 编辑阅读器&quot;&gt;&lt;/a&gt;欢迎使用 Cmd Markdown 编辑阅读器&lt;/h1&gt;&lt;hr&gt;
+    <content type="html">&lt;h1 id=&quot;Cmd-Markdown&quot;&gt;&lt;a href=&quot;#Cmd-Markdown&quot; class=&quot;headerlink&quot; title=&quot;Cmd Markdown&quot;&gt;&lt;/a&gt;Cmd Markdown&lt;/h1&gt;&lt;hr&gt;
 &lt;p&gt;我们理解您需要更便捷更高效的工具记录思想，整理笔记、知识，并将其中承载的价值传播给他人，&lt;strong&gt;Cmd Markdown&lt;/strong&gt; 是我们给出的答案 —— 我们为记录思想和分享知识提供更专业的工具。 您可以使用 Cmd Markdown：&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;ul&gt;
@@ -99,21 +99,16 @@
 &lt;p&gt;标签： 未分类&lt;/p&gt;
 &lt;p&gt;标签以后的文稿在【文件列表】（Ctrl+Alt+F）里会按照标签分类，用户可以同时使用键盘或者鼠标浏览查看，或者在【文件列表】的搜索文本框内搜索标题关键字过滤文稿，如下图所示：&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;https://www.zybuluo.com/static/img/file-list.png&quot; alt=&quot;file-list&quot;&gt;&lt;/p&gt;
-&lt;h3 id=&quot;10-文稿发布和分享&quot;&gt;&lt;a href=&quot;#10-文稿发布和分享&quot; class=&quot;headerlink&quot; title=&quot;10. 文稿发布和分享&quot;&gt;&lt;/a&gt;10. 文稿发布和分享&lt;/h3&gt;&lt;p&gt;在您使用 Cmd Markdown 记录，创作，整理，阅读文稿的同时，我们不仅希望它是一个有力的工具，更希望您的思想和知识通过这个平台，连同优质的阅读体验，将他们分享给有相同志趣的人，进而鼓励更多的人来到这里记录分享他们的思想和知识，尝试点击 &lt;i class=&quot;icon-share&quot;&gt;&lt;/i&gt; (Ctrl+Alt+P) 发布这份文档给好友吧！&lt;/p&gt;
+&lt;h3 id=&quot;10-文稿发布和分享&quot;&gt;&lt;a href=&quot;#10-文稿发布和分享&quot; class=&quot;headerlink&quot; title=&quot;10. 文稿发布和分享&quot;&gt;&lt;/a&gt;10. 文稿发布和分享&lt;/h3&gt;&lt;p&gt;在您使用，记录，创作，整理，阅读文稿的同时，我们不仅希望它是一个有力的工具，更希望您的思想和知识通过这个平台，连同优质的阅读体验，将他们分享给有相同志趣的人，进而鼓励更多的人来到这里记录分享他们的思想和知识，尝试点击 &lt;i class=&quot;icon-share&quot;&gt;&lt;/i&gt; (Ctrl+Alt+P) 发布这份文档给好友吧！&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;再一次感谢您花费时间阅读这份欢迎稿，点击 &lt;i class=&quot;icon-file&quot;&gt;&lt;/i&gt; (Ctrl+Alt+N) 开始撰写新的文稿吧！祝您在这里记录、阅读、分享愉快！&lt;/p&gt;
-&lt;p&gt;作者 &lt;a href=&quot;http://weibo.com/ghosert&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;@ghosert&lt;/a&gt;&lt;br&gt;2015 年 06月 15日    &lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;支持 &lt;strong&gt;LaTeX&lt;/strong&gt; 编辑显示支持，例如：$\sum_{i=1}^n a_i=0$， 访问 &lt;a href=&quot;http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;MathJax&lt;/a&gt; 参考更多使用方法。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;代码高亮功能支持包括 Java, Python, JavaScript 在内的，&lt;strong&gt;四十一&lt;/strong&gt;种主流编程语言。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;再一次感谢您花费时间阅读这篇博文，祝您在这里阅读、分享愉快！&lt;/p&gt;
+&lt;center&gt; &lt;iframe name=&quot;iframe_canvas&quot; src=&quot;http://douban.fm/partner/baidu/doubanradio&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; width=&quot;400&quot; height=&quot;200&quot;&gt;&lt;/iframe&gt; &lt;/center&gt;
 </content>
     
     <summary type="html">
     
-      &lt;h1 id=&quot;欢迎使用-Cmd-Markdown-编辑阅读器&quot;&gt;&lt;a href=&quot;#欢迎使用-Cmd-Markdown-编辑阅读器&quot; class=&quot;headerlink&quot; title=&quot;欢迎使用 Cmd Markdown 编辑阅读器&quot;&gt;&lt;/a&gt;欢迎使用 Cmd Markdown
+      &lt;h1 id=&quot;Cmd-Markdown&quot;&gt;&lt;a href=&quot;#Cmd-Markdown&quot; class=&quot;headerlink&quot; title=&quot;Cmd Markdown&quot;&gt;&lt;/a&gt;Cmd Markdown&lt;/h1&gt;&lt;hr&gt;
+&lt;p&gt;我们理解您需要更便捷更高效的工具记录思想，整理笔记
     
     </summary>
     
@@ -123,11 +118,106 @@
   </entry>
   
   <entry>
-    <title>my first blog</title>
+    <title>Hexo</title>
+    <link href="http://yoursite.com/2016/05/06/Hexo/"/>
+    <id>http://yoursite.com/2016/05/06/Hexo/</id>
+    <published>2016-05-06T08:59:05.000Z</published>
+    <updated>2016-05-06T11:07:27.000Z</updated>
+    
+    <content type="html">&lt;h1 id=&quot;搭建-Hexo-Github&quot;&gt;&lt;a href=&quot;#搭建-Hexo-Github&quot; class=&quot;headerlink&quot; title=&quot;搭建 Hexo + Github&quot;&gt;&lt;/a&gt;搭建 Hexo + Github&lt;/h1&gt;&lt;hr&gt;
+&lt;p&gt;&lt;img src=&quot;http://i2.piimg.com/75c02e8482c22017.png&quot; alt=&quot;GitHub+Hexo Mark&quot; title=&quot;GitHub+Hexo Mark&quot;&gt;&lt;/p&gt;
+&lt;h2 id=&quot;引言&quot;&gt;&lt;a href=&quot;#引言&quot; class=&quot;headerlink&quot; title=&quot;引言&quot;&gt;&lt;/a&gt;引言&lt;/h2&gt;&lt;hr&gt;
+&lt;p&gt;本工作的根本目的是在Github上搭建一个个人博客。其优点是免费，而且可以学习Git。因此本人从今天开始打算将博客平台转移到Github上来。&lt;/p&gt;
+&lt;p&gt;Github上可以用来搭建博客的工具大概有三个：Hexo, Jekyll, octopress等。但是经过研究发现最好的方式还是采用Github + Hexo的方式，因此这里介绍的方法正是基于该方法。&lt;/p&gt;
+&lt;p&gt;基于Github + Hexo的博客搭建方法网上有许多教程，可以参考中文的详细教程。推荐一下两个网站上的&lt;strong&gt;详细教程&lt;/strong&gt;：&lt;/p&gt;
+&lt;h3 id=&quot;参考&quot;&gt;&lt;a href=&quot;#参考&quot; class=&quot;headerlink&quot; title=&quot;参考&quot;&gt;&lt;/a&gt;参考&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://cnfeat.com/2014/05/10/2014-05-11-how-to-build-a-blog/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;如何搭建一个独立博客——简明Github Pages与Hexo教程&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://zipperary.com/categories/hexo/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo主题博客&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://wsgzao.github.io/post/hexo-guide/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;使用GitHub和Hexo搭建免费静态Blog&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;博客的搭建&quot;&gt;&lt;a href=&quot;#博客的搭建&quot; class=&quot;headerlink&quot; title=&quot;博客的搭建&quot;&gt;&lt;/a&gt;博客的搭建&lt;/h2&gt;&lt;p&gt;参考上述的内容1, 2, 3&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;安装&lt;a href=&quot;https://desktop.github.com&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Github for Windows&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;安装&lt;a href=&quot;https://nodejs.org/en/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;node&lt;/a&gt;并设置环境变量：&lt;strong&gt;C:\Program Files\nodejs\node_modules\npm&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;安装&lt;strong&gt;Hexo&lt;/strong&gt;：配置好GitHub目录后，在Github目录下新建一个文件 hexo，双击桌面上的&lt;strong&gt;Git Shell&lt;/strong&gt;，输入&lt;strong&gt;npm&lt;/strong&gt;命令即可安装。更多的帮助文件可以参考：&lt;a href=&quot;https://hexo.io/zh-cn/docs/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://hexo.io/zh-cn/docs/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;cd hexo&lt;/li&gt;
+&lt;li&gt;npm install -g hexo-cli&lt;/li&gt;
+&lt;li&gt;npm install hexo –save&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;部署Hexo：&lt;/strong&gt;在Git shell 中输入&lt;strong&gt;hexo init&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;安装Hexo 插件：&lt;/strong&gt;非必要步骤&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;10&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;11&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;12&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;13&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&amp;gt; 1. npm install hexo-generator-index --save&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&amp;gt; 2. npm install hexo-generator-archive --save&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&amp;gt; 3. npm install hexo-generator-category --save&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&amp;gt; 4. npm install hexo-generator-tag --save&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&amp;gt; 5. npm install hexo-server --save&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&amp;gt; 6. npm install hexo-deployer-git --save&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&amp;gt; 7. npm install hexo-deployer-heroku --save&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&amp;gt; 8. npm install hexo-deployer-rsync --save&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&amp;gt; 9. npm install hexo-deployer-openshift --save&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&amp;gt; 10. npm install hexo-renderer-marked@0.2 --save&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&amp;gt; 11. npm install hexo-renderer-stylus@0.2 --save&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&amp;gt; 12. npm install hexo-generator-feed@1 --save&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&amp;gt; 13. npm install hexo-generator-sitemap@1 --save&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;测试本地效果&lt;/strong&gt;：采用命令： hexo d -g，或hexo generate, hexo server，成功后可登录localhost:4000查看效果。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;新建仓库&lt;/strong&gt;：在Github上新建一个Github Pages，即建立一个仓库New Repository，命名为jianghao.github.io,注意这里必须命名为io，而不是com。因为Github Pages的Repository名字是特定的，比如我Github账号是jianghao，那么我Github Pages Repository名字就是jianghao.github.io。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;用Hexo&lt;strong&gt;克隆主题&lt;/strong&gt;。首先克隆你想要的主题。一个完整的主题列表可见：&lt;a href=&quot;https://github.com/hexojs/hexo/wiki/themes&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;https://github.com/hexojs/hexo/wiki/themes&lt;/a&gt; 。个人倾向的主题为：&lt;ul&gt;
+&lt;li&gt;英文主题：Codeland&lt;/li&gt;
+&lt;li&gt;中文主题：Coney&lt;pre&gt;&lt;code&gt;具体的方法参考coney主题介绍
+&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;修改与调试&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;启动本地服务：hexo serve&lt;/li&gt;
+&lt;li&gt;部署到Github前需要配置_config.yml文件&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&amp;gt; 1. deploy:&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&amp;gt; 2.	&lt;span class=&quot;built_in&quot;&gt;type&lt;/span&gt;: git&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&amp;gt; 3.	repository: git@github.com:jianghao/jianghao.github.com.git&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&amp;gt; 4. branch: master&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&quot;说明&quot;&gt;&lt;a href=&quot;#说明&quot; class=&quot;headerlink&quot; title=&quot;说明&quot;&gt;&lt;/a&gt;说明&lt;/h3&gt;&lt;p&gt;如果是为了项目制作网站，需要将branch设置为gh-pages，如果需要绑定域名，需要制作一个cname文件。因为每次deploy的时候hexo都会重新生成文件，所以直接加在github是不好使的，这个文件需要放在 hexo folder/source文件夹根目录下。&lt;/p&gt;
+&lt;p&gt;执行完，开始部署，即先hexo generate，然后hexo deploy。也可以一部到位：hexo d -g&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;将独立域名与GitHub Pages的空间&lt;strong&gt;域名绑定&lt;/strong&gt;&lt;ul&gt;
+&lt;li&gt;Githubpage 设置：在Repository的根目录下面，新建一个名为  CNAME的文本文件，里面写入你要绑定的域名，如jianghao.wang。&lt;/li&gt;
+&lt;li&gt;DNS设置：注册DNSpod，添加域名，不是必要的步骤，但是据说可以提高解析效率。本人没有测试。&lt;/li&gt;
+&lt;li&gt;在域名服务商，如net.cn中修改增加两条A记录，指向github pages 提供的 ip&lt;ul&gt;
+&lt;li&gt;192.30.252.153&lt;/li&gt;
+&lt;li&gt;192.30.252.154  &lt;h2 id=&quot;Hexo-设置&quot;&gt;&lt;a href=&quot;#Hexo-设置&quot; class=&quot;headerlink&quot; title=&quot;Hexo 设置&quot;&gt;&lt;/a&gt;Hexo 设置&lt;/h2&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;主要参考：hexo博客的配置、使用&quot;&gt;&lt;a href=&quot;#主要参考：hexo博客的配置、使用&quot; class=&quot;headerlink&quot; title=&quot;主要参考：hexo博客的配置、使用&quot;&gt;&lt;/a&gt;主要参考：&lt;a href=&quot;http://zipperary.com/2013/05/29/hexo-guide-3/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;hexo博客的配置、使用&lt;/a&gt;&lt;/h3&gt;&lt;h3 id=&quot;设置-config-yml&quot;&gt;&lt;a href=&quot;#设置-config-yml&quot; class=&quot;headerlink&quot; title=&quot;设置_config.yml&quot;&gt;&lt;/a&gt;设置_config.yml&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;参考上述文章的内容。&lt;a href=&quot;http://zipperary.com/2013/05/29/hexo-guide-3/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;hexo博客的配置、使用&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;h4 id=&quot;设置主题配置文件&quot;&gt;&lt;a href=&quot;#设置主题配置文件&quot; class=&quot;headerlink&quot; title=&quot;设置主题配置文件&quot;&gt;&lt;/a&gt;设置主题配置文件&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;coney主题参考：&lt;strong&gt;&lt;a href=&quot;http://gengbiao.me/hexo/coney主题介绍/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;coney主题介绍&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Next主题参考：&lt;strong&gt;&lt;a href=&quot;https://github.com/iissnan/hexo-theme-next&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Next 主题&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;个人对该主题进行了一些修改，修改后的内容备份在Github 的Gist上：&lt;a href=&quot;https://gist.github.com/Jianghao/9197abdb7482c6bf9df7&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;https://gist.github.com/Jianghao/9197abdb7482c6bf9df7&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;内容参考：&lt;/strong&gt;&lt;a href=&quot;http://jianghao.wang/2015/hexo-github/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;http://jianghao.wang/2015/hexo-github/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;结束语&quot;&gt;&lt;a href=&quot;#结束语&quot; class=&quot;headerlink&quot; title=&quot;结束语&quot;&gt;&lt;/a&gt;结束语&lt;/h2&gt;&lt;p&gt; &lt;strong&gt; 待更新 &lt;/strong&gt;&lt;/p&gt;
+ &lt;center&gt; &lt;iframe name=&quot;iframe_canvas&quot; src=&quot;http://douban.fm/partner/baidu/doubanradio&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; width=&quot;400&quot; height=&quot;200&quot;&gt;&lt;/iframe&gt; &lt;/center&gt;</content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;搭建-Hexo-Github&quot;&gt;&lt;a href=&quot;#搭建-Hexo-Github&quot; class=&quot;headerlink&quot; title=&quot;搭建 Hexo + Github&quot;&gt;&lt;/a&gt;搭建 Hexo + Github&lt;/h1&gt;&lt;hr&gt;
+&lt;p&gt;&lt;img src=&quot;htt
+    
+    </summary>
+    
+    
+      <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>初识hexo</title>
     <link href="http://yoursite.com/2016/05/03/my-first-blog/"/>
     <id>http://yoursite.com/2016/05/03/my-first-blog/</id>
     <published>2016-05-03T02:20:00.000Z</published>
-    <updated>2016-05-04T13:07:22.000Z</updated>
+    <updated>2016-05-06T10:38:50.000Z</updated>
     
     <content type="html">&lt;p&gt;前些天，自己刚刚接触hexo，并用hexo搭建了自己的博客，对hexo的强大搭建博客能力感到赞叹。用我的实际体验来说，你只要是有点计算机基础的人，完全可以轻松的使用hexo搭建起自己的博客。你要是用过github、oschina、gitcafe其中的一样，那对你来说，就可以分分钟上手了。其实网上使用hexo搭建博客的教程多的是，我自己也是跟着zippera的教程搭建的博客，那么我还写这篇博客是出于什么目的呢？原因如下：第一，网上的教程大多比较老了，我在搭建的过程中就遇到过不少问题，因此我觉得有必要写个适配hexo3.0的教程。第二，如你所见，本博客由于刚刚起步，博文少的可怜，因此写这篇博文也可以充场子，免得太冷清。第三，算是自己的个人笔记吧，我本人对于刚学的东西都喜欢用博文记录，免得以后自己忘掉。&lt;br&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;iframe frameborder=&quot;no&quot; border=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; width=&quot;330&quot; height=&quot;86&quot; src=&quot;http://music.163.com/outchain/player?type=2&amp;id=28947001&amp;auto=1&amp;height=66&quot;&gt;&lt;/iframe&gt;</content>
@@ -140,6 +230,35 @@
     
     
       <category term="blog" scheme="http://yoursite.com/tags/blog/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2016/05/03/hello-world/"/>
+    <id>http://yoursite.com/2016/05/03/hello-world/</id>
+    <published>2016-05-03T02:05:24.000Z</published>
+    <updated>2016-05-06T10:39:18.000Z</updated>
+    
+    <content type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Start&quot;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;h3 id=&quot;Create-a-new-post&quot;&gt;&lt;a href=&quot;#Create-a-new-post&quot; class=&quot;headerlink&quot; title=&quot;Create a new post&quot;&gt;&lt;/a&gt;Create a new post&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo new &lt;span class=&quot;string&quot;&gt;&quot;My New Post&quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/writing.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Writing&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;Run-server&quot;&gt;&lt;a href=&quot;#Run-server&quot; class=&quot;headerlink&quot; title=&quot;Run server&quot;&gt;&lt;/a&gt;Run server&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo server&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/server.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Server&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;Generate-static-files&quot;&gt;&lt;a href=&quot;#Generate-static-files&quot; class=&quot;headerlink&quot; title=&quot;Generate static files&quot;&gt;&lt;/a&gt;Generate static files&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo generate&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/generating.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Generating&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;Deploy-to-remote-sites&quot;&gt;&lt;a href=&quot;#Deploy-to-remote-sites&quot; class=&quot;headerlink&quot; title=&quot;Deploy to remote sites&quot;&gt;&lt;/a&gt;Deploy to remote sites&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo deploy&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/deployment.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Deployment&lt;/a&gt;&lt;/p&gt;
+&lt;center&gt; &lt;iframe name=&quot;iframe_canvas&quot; src=&quot;http://douban.fm/partner/baidu/doubanradio&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; width=&quot;400&quot; height=&quot;200&quot;&gt;&lt;/iframe&gt; &lt;/center&gt;</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+    
+    </summary>
+    
+    
+      <category term="Testing" scheme="http://yoursite.com/tags/Testing/"/>
     
   </entry>
   
