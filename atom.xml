@@ -112,9 +112,9 @@
     </summary>
     
     
-      <category term="next" scheme="http://yoursite.com/tags/next/"/>
-    
       <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
+    
+      <category term="next" scheme="http://yoursite.com/tags/next/"/>
     
   </entry>
   
@@ -501,18 +501,17 @@
     <link href="http://yoursite.com/2016/05/03/my-first-blog/"/>
     <id>http://yoursite.com/2016/05/03/my-first-blog/</id>
     <published>2016-05-03T02:20:00.000Z</published>
-    <updated>2016-05-06T13:50:39.000Z</updated>
+    <updated>2016-05-06T14:08:49.000Z</updated>
     
-    <content type="html">&lt;p&gt;前些天，自己刚刚接触hexo，并用hexo搭建了自己的博客，对hexo的强大搭建博客能力感到赞叹。用我的实际体验来说，你只要是有点计算机基础的人，完全可以轻松的使用hexo搭建起自己的博客。你要是用过github、oschina、gitcafe其中的一样，那对你来说，就可以分分钟上手了。其实网上使用hexo搭建博客的教程多的是，我自己也是跟着zippera的教程搭建的博客，那么我还写这篇博客是出于什么目的呢？原因如下：第一，网上的教程大多比较老了，我在搭建的过程中就遇到过不少问题，因此我觉得有必要写个适配hexo3.0的教程。第二，如你所见，本博客由于刚刚起步，博文少的可怜，因此写这篇博文也可以充场子，免得太冷清。第三，算是自己的个人笔记吧，我本人对于刚学的东西都喜欢用博文记录，免得以后自己忘掉。&lt;/p&gt;
-&lt;iframe height=&quot;700&quot; width=&quot;1000&quot; src=&quot;http://t.cn/RqRmsIt&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
-
+    <content type="html">&lt;p&gt;&lt;img src=&quot;http://github.global.ssl.fastly.net/images/modules/logos_page/GitHub-Mark.png&quot; alt=&quot;GitHub Mark&quot; title=&quot;GitHub Mark&quot;&gt;&lt;/p&gt;
+&lt;p&gt;前些天，自己刚刚接触hexo，并用hexo搭建了自己的博客，对hexo的强大搭建博客能力感到赞叹。用我的实际体验来说，你只要是有点计算机基础的人，完全可以轻松的使用hexo搭建起自己的博客。你要是用过github、oschina、gitcafe其中的一样，那对你来说，就可以分分钟上手了。其实网上使用hexo搭建博客的教程多的是，我自己也是跟着zippera的教程搭建的博客，那么我还写这篇博客是出于什么目的呢？原因如下：第一，网上的教程大多比较老了，我在搭建的过程中就遇到过不少问题，因此我觉得有必要写个适配hexo3.0的教程。第二，如你所见，本博客由于刚刚起步，博文少的可怜，因此写这篇博文也可以充场子，免得太冷清。第三，算是自己的个人笔记吧，我本人对于刚学的东西都喜欢用博文记录，免得以后自己忘掉。&lt;/p&gt;
 &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
 </content>
     
     <summary type="html">
     
-      &lt;p&gt;前些天，自己刚刚接触hexo，并用hexo搭建了自己的博客，对hexo的强大搭建博客能力感到赞叹。用我的实际体验来说，你只要是有点计算机基础的人，完全可以轻松的使用hexo搭建起自己的博客。你要是用过github、oschina、gitcafe其中的一样，那对你来说，就可以分分钟上手了。其实网上使用hexo搭建博客的教程多的是，我自己也是跟着zippera的教程搭建的博客，那么我还写这篇博客是出于什么目的呢？原因如下：第一，网上的教程大多比较老了，我在搭建的过程中就遇到过不少问题，因此我觉得有必要写个适配hexo3.0的教程。第二，如你所见，本博客由于刚刚起步，博文少的可怜，因此写这篇博文也可以充场子，免得太冷清。第三，算是自己的个人笔记吧，我本人对于刚学的东西都喜欢用博文记录，免得以后自己忘掉。&lt;/p&gt;
-&lt;iframe height=700 width=1000 src=&quot;http://t.cn/RqRmsIt&quot; frameborder=0 allowfullscreen&gt;&lt;/iframe&gt;
+      &lt;p&gt;&lt;img src=&quot;http://github.global.ssl.fastly.net/images/modules/logos_page/GitHub-Mark.png&quot; alt=&quot;GitHub Mark&quot; title=&quot;GitHub Mark&quot;&gt;&lt;/p&gt;
+&lt;p&gt;前些天，自己刚刚接触hexo，并用hexo搭建了自己的博客，对hexo的强大搭建博客能力感到赞叹。用我的实际体验来说，你只要是有点计算机基础的人，完全可以轻松的使用hexo搭建起自己的博客。你要是用过github、oschina、gitcafe其中的一样，那对你来说，就可以分分钟上手了。其实网上使用hexo搭建博客的教程多的是，我自己也是跟着zippera的教程搭建的博客，那么我还写这篇博客是出于什么目的呢？原因如下：第一，网上的教程大多比较老了，我在搭建的过程中就遇到过不少问题，因此我觉得有必要写个适配hexo3.0的教程。第二，如你所见，本博客由于刚刚起步，博文少的可怜，因此写这篇博文也可以充场子，免得太冷清。第三，算是自己的个人笔记吧，我本人对于刚学的东西都喜欢用博文记录，免得以后自己忘掉。&lt;/p&gt;
     
     </summary>
     
