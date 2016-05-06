@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-05-06T13:42:34.000Z</updated>
+  <updated>2016-05-06T14:21:39.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,9 +20,11 @@
     <link href="http://yoursite.com/2016/05/06/next/"/>
     <id>http://yoursite.com/2016/05/06/next/</id>
     <published>2016-05-06T12:11:32.000Z</published>
-    <updated>2016-05-06T13:42:34.000Z</updated>
+    <updated>2016-05-06T14:21:39.000Z</updated>
     
-    <content type="html">&lt;h1 id=&quot;NexT主题与Hexo更搭哦&quot;&gt;&lt;a href=&quot;#NexT主题与Hexo更搭哦&quot; class=&quot;headerlink&quot; title=&quot;NexT主题与Hexo更搭哦&quot;&gt;&lt;/a&gt;NexT主题与Hexo更搭哦&lt;/h1&gt;&lt;h2 id=&quot;&quot;&gt;&lt;a href=&quot;#&quot; class=&quot;headerlink&quot; title=&quot;&quot;&gt;&lt;/a&gt;&lt;img src=&quot;http://i2.buimg.com/5e5f6e34775b6929.png&quot; alt=&quot;GitHub Mark&quot; title=&quot;GitHub Mark&quot;&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;本篇详细介绍Hexo-Next主题的一些个性化定制&lt;/strong&gt;&lt;/p&gt;
+    <content type="html">&lt;p&gt;&lt;img src=&quot;http://i2.buimg.com/5e5f6e34775b6929.png&quot; alt=&quot;GitHub Mark&quot; title=&quot;GitHub Mark&quot;&gt;&lt;/p&gt;
+&lt;h1 id=&quot;NexT主题与Hexo更搭哦&quot;&gt;&lt;a href=&quot;#NexT主题与Hexo更搭哦&quot; class=&quot;headerlink&quot; title=&quot;NexT主题与Hexo更搭哦&quot;&gt;&lt;/a&gt;NexT主题与Hexo更搭哦&lt;/h1&gt;&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;本篇详细介绍Hexo-Next主题的一些个性化定制&lt;/strong&gt;&lt;/p&gt;
 &lt;h2 id=&quot;1-添加自定义导航分类（以Next主题为例，其他主题类似）&quot;&gt;&lt;a href=&quot;#1-添加自定义导航分类（以Next主题为例，其他主题类似）&quot; class=&quot;headerlink&quot; title=&quot;1. 添加自定义导航分类（以Next主题为例，其他主题类似）&quot;&gt;&lt;/a&gt;1. 添加自定义导航分类（以Next主题为例，其他主题类似）&lt;/h2&gt;&lt;h3 id=&quot;需求&quot;&gt;&lt;a href=&quot;#需求&quot; class=&quot;headerlink&quot; title=&quot;需求&quot;&gt;&lt;/a&gt;需求&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;默认自带分类:首页,归档,分类,标签,关于.不够用.&lt;/li&gt;
 &lt;li&gt;想增加一些自定义的分类.&lt;/li&gt;
@@ -107,7 +109,8 @@
     
     <summary type="html">
     
-      &lt;h1 id=&quot;NexT主题与Hexo更搭哦&quot;&gt;&lt;a href=&quot;#NexT主题与Hexo更搭哦&quot; class=&quot;headerlink&quot; title=&quot;NexT主题与Hexo更搭哦&quot;&gt;&lt;/a&gt;NexT主题与Hexo更搭哦&lt;/h1&gt;&lt;h2 id=&quot;&quot;&gt;&lt;a href=&quot;#&quot; cla
+      &lt;p&gt;&lt;img src=&quot;http://i2.buimg.com/5e5f6e34775b6929.png&quot; alt=&quot;GitHub Mark&quot; title=&quot;GitHub Mark&quot;&gt;&lt;/p&gt;
+&lt;h1 id=&quot;NexT主题与Hexo更搭哦&quot;&gt;&lt;a href=&quot;#NexT主题与H
     
     </summary>
     
@@ -404,11 +407,10 @@
     <link href="http://yoursite.com/2016/05/06/Hexo/"/>
     <id>http://yoursite.com/2016/05/06/Hexo/</id>
     <published>2016-05-06T08:59:05.000Z</published>
-    <updated>2016-05-06T11:28:41.000Z</updated>
+    <updated>2016-05-06T14:21:15.000Z</updated>
     
-    <content type="html">&lt;h1 id=&quot;搭建-Hexo-Github&quot;&gt;&lt;a href=&quot;#搭建-Hexo-Github&quot; class=&quot;headerlink&quot; title=&quot;搭建 Hexo + Github&quot;&gt;&lt;/a&gt;搭建 Hexo + Github&lt;/h1&gt;&lt;hr&gt;
-&lt;p&gt;&lt;img src=&quot;http://i2.piimg.com/75c02e8482c22017.png&quot; alt=&quot;GitHub+Hexo Mark&quot; title=&quot;GitHub+Hexo Mark&quot;&gt;&lt;/p&gt;
-&lt;h2 id=&quot;引言&quot;&gt;&lt;a href=&quot;#引言&quot; class=&quot;headerlink&quot; title=&quot;引言&quot;&gt;&lt;/a&gt;引言&lt;/h2&gt;&lt;hr&gt;
+    <content type="html">&lt;p&gt;&lt;img src=&quot;http://i2.piimg.com/75c02e8482c22017.png&quot; alt=&quot;GitHub+Hexo Mark&quot; title=&quot;GitHub+Hexo Mark&quot;&gt;&lt;/p&gt;
+&lt;h1 id=&quot;搭建-Hexo-Github&quot;&gt;&lt;a href=&quot;#搭建-Hexo-Github&quot; class=&quot;headerlink&quot; title=&quot;搭建 Hexo + Github&quot;&gt;&lt;/a&gt;搭建 Hexo + Github&lt;/h1&gt;&lt;h2 id=&quot;引言&quot;&gt;&lt;a href=&quot;#引言&quot; class=&quot;headerlink&quot; title=&quot;引言&quot;&gt;&lt;/a&gt;引言&lt;/h2&gt;&lt;hr&gt;
 &lt;p&gt;本工作的根本目的是在Github上搭建一个个人博客。其优点是免费，而且可以学习Git。因此本人从今天开始打算将博客平台转移到Github上来。&lt;/p&gt;
 &lt;p&gt;Github上可以用来搭建博客的工具大概有三个：Hexo, Jekyll, octopress等。但是经过研究发现最好的方式还是采用Github + Hexo的方式，因此这里介绍的方法正是基于该方法。&lt;/p&gt;
 &lt;p&gt;基于Github + Hexo的博客搭建方法网上有许多教程，可以参考中文的详细教程。推荐一下两个网站上的&lt;strong&gt;详细教程&lt;/strong&gt;：&lt;/p&gt;
@@ -484,8 +486,8 @@
     
     <summary type="html">
     
-      &lt;h1 id=&quot;搭建-Hexo-Github&quot;&gt;&lt;a href=&quot;#搭建-Hexo-Github&quot; class=&quot;headerlink&quot; title=&quot;搭建 Hexo + Github&quot;&gt;&lt;/a&gt;搭建 Hexo + Github&lt;/h1&gt;&lt;hr&gt;
-&lt;p&gt;&lt;img src=&quot;htt
+      &lt;p&gt;&lt;img src=&quot;http://i2.piimg.com/75c02e8482c22017.png&quot; alt=&quot;GitHub+Hexo Mark&quot; title=&quot;GitHub+Hexo Mark&quot;&gt;&lt;/p&gt;
+&lt;h1 id=&quot;搭建-Hexo-Github&quot;&gt;&lt;a href=
     
     </summary>
     
